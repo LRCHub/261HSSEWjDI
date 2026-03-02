@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Never stop Your dance",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T20:07:31.462657Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Never stop Your dance",
+      "artist": "Sambomaster",
+      "has_synced": false,
+      "path": "select/01_Never_stop_Your_dance_Sambomaster.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Never stop Your dance",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_Never_stop_Your_dance_サンボマスター.txt"
+    }
+  ]
+}
